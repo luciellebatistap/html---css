@@ -1,0 +1,53 @@
+
+
+*{
+    
+min-width: 320px;
+max-height: 800px;
+}
+header { 
+   font-family: Arial, Helvetica, sans-serif;
+   color:white;
+   background-color:#497EC8 ;
+   margin:auto
+   
+}
+
+li {
+    display: inline-block;
+    
+}
+a {
+    color:black;
+    
+}
+
+span{
+    background-color: #1E4677;
+    padding: 10px;
+     display: block; 
+     width: 200px;
+     margin: auto;
+     box-shadow: 0px 0px 10px;
+     min-width: 300px;
+     box-shadow: 0px 0px 10px;
+     margin-left: 0;
+     margin-right: autor;
+    
+}
+
+main {
+background-color: #cedcece0;
+margin:auto;
+}
+
+
+
+footer {
+    background-color:#1C477F;
+    text-align: center;
+    
+    border: 10px;
+    
+    
+}
